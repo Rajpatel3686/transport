@@ -1,0 +1,700 @@
+@media only screen and (min-width: 1400px){
+
+    header::after{
+        height: 637px;
+    }
+    header::before{
+        height: 637px;
+    }
+    .label-phone {
+        left: 40.9%;
+    }
+    .text-boat {
+        width: 42%;
+    }
+}
+
+@media only screen and (max-width: 1024px){
+    
+h1{
+    font-size: 38px;
+    line-height: 45px;
+    margin-top: 50px;
+    margin-bottom: 21px;
+}
+
+.text-boat {
+    width: 51%;
+    z-index: 2;
+}
+
+.img-boat img {
+   right: 27%;
+   width: 138%;
+
+}
+
+header::before {
+    height: 521px;
+}
+
+header::after{
+    height: 521px;
+}
+
+
+.img-boat {
+    width: 49%;
+}
+
+.text-boat p{
+    font-size: 16px;
+    margin-bottom: 25px;
+}
+
+.kilometres .kilometres-header p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.kilometres {
+    width: 41%;
+}
+
+.map {
+    width: 59%;
+    margin-top: 142px;
+
+}
+
+video {
+    width: 108%;
+}
+
+
+
+
+
+.contact{
+    padding: 64px 25px;
+}
+
+.full-name{
+    width: 444px;
+}
+
+.Subject{
+    width: 444px;
+}
+
+.message{
+    width: 444px;
+}
+
+.hello-there{
+    margin-left: -11px;
+}
+
+.phone {
+    width: 209.5px;
+}
+
+.email{
+    width: 209.5px; 
+}
+
+.label-phone {
+    left: 48.9%;
+}
+
+.dp-world {
+    width: 303px;
+}
+
+.trans {
+    width: 304px;
+    margin-right: 14px;
+}
+
+.red-box {
+    top: 91px;
+    width: 178px;
+}
+
+.img-logo{
+    width: 50%;
+}
+
+.contact-email{
+    width: 44%;
+margin-left: 0;
+margin-top: 25px;
+
+}
+
+.foot-contact{
+    width: 50%;
+    justify-content: end;
+    display: inline-grid;
+}
+
+.Social-media-i{
+    width: 50%;
+    justify-content: end;
+    display: inline-grid;
+    padding-right: 51px;
+    margin-top: 25px;
+
+}
+
+.Social-media-i p {
+    margin-bottom: -14px;
+}
+
+}
+
+@media only screen and (max-width: 768px){
+
+    nav button{
+        font-size: 14px;
+    }
+    
+    h1 {
+        font-size: 32px;
+        line-height: 42px;
+        margin-top: 37px;
+        margin-bottom: 15px;
+    }
+    .text-boat button{
+        font-size: 14px;
+    }
+
+    .star {
+        padding: 10.5px 7.21px 11.5px 12px;
+       
+    }
+
+    .text-boat button {
+        padding-right: 13px;
+    }
+
+    .text-boat p {
+        font-size: 14px;
+        margin-bottom: 19px;
+    }
+
+    .img-boat img {
+        right: 32%;
+        width: 146%;
+    }
+
+    header::before {
+        height: 444px;
+    }
+
+    header::after {
+        height: 444px;
+    }
+
+    .kilometres {
+        width: 100%;
+    }
+    
+    .map {
+        width: 100%;
+        margin-top: 65px;
+    }
+
+    video {
+        width: 100%;
+    }
+    
+    h2{
+        margin-top: 23px;
+        margin-bottom: 11px;
+    }
+
+    .contact {
+        padding: 64px 48px;
+    }
+
+    .contact-text {
+        width: 100%;
+    }
+
+    .contact-img {
+        width: 100%;
+    }
+
+    .hello-there {
+        margin-left: 94px;
+        margin-top: 45px;
+    }
+
+    .contact-text p {
+        margin-bottom: 31px;
+    }
+
+    .label-phone {
+        left: 39%;
+    }
+
+h3{
+    margin-top: 70px;
+}
+
+h5{
+    margin-top: 72px;
+}
+
+.road {
+    margin-bottom: 66px;
+}
+
+.Ocean{
+    margin-left: 0;
+    margin-bottom: 85px;
+}
+
+.dp-world {
+    width: 200px;
+}
+
+.smart{
+    width: 200px;
+}
+
+.trans {
+    width: 201px;
+    margin-right: 14px;
+}
+
+.truker {
+    width: 200px;
+    margin-left: 14px;
+}
+
+.al-fares {
+    width: 200px;
+}
+
+.like-arrow{
+    width: 200px;
+}
+
+h6{
+    font-size: 37px;
+}
+
+.red-box {
+    top: 99px;
+    width: 156px;
+}
+.contact-email{
+    width: 42%;
+}
+
+
+.talk-on{
+    font-size: 27px;
+}
+
+
+
+
+
+}
+
+@media only screen and (max-width: 425px){
+
+    .text-boat{
+        width: 100%;
+    }
+
+    .img-boat{
+        width: 100%;
+    }
+
+    .img-boat img {
+        right: 0%;
+        width: 100%;
+    }
+
+    .Shipping {
+        width: 377px;
+        margin: auto;
+    }
+
+h2{
+    margin-top: 53px;
+}
+
+h3{
+    font-size: 36px;
+}
+
+.Ocean p{
+    padding-bottom: 25px;
+}
+
+.road{
+    padding: 0 0 25px 36px;
+    margin-bottom: 39px;
+}
+
+.full-name {
+    width: 100%;
+}
+
+.email {
+    width: 100%;
+}
+
+.phone {
+    width: 100%;
+    margin-left: 0px;
+}
+
+.label-phone {
+    left: 0%;
+    top: 37%;
+}
+
+.label-subject{
+    top: 55%;
+}
+
+.label-email {
+    top: 20%;
+}
+
+.label-massage {
+    top: 72%;
+}
+
+.hello-there {
+    margin-left: -42px;
+    margin-top: 45px;
+}
+
+.hello-there {
+    width: 371px;
+    padding: 27px 15px;
+}
+
+.dp-world {
+    margin-bottom: 16px;
+    border: 1px solid #E7E7E7;
+    width: 100%;
+}
+
+.smart {
+    border: 1px solid #E7E7E7;
+    height: 224px;
+    margin-bottom: 16px;
+    width: 100%;
+}
+
+.dp-world {
+    width: 100px;
+    border: 1px solid #E7E7E7; 
+}
+
+.al-fares{
+    border: 1px solid #E7E7E7; 
+    margin-bottom: 16px;
+    width: 100%;
+}
+
+.truker{
+    border: 1px solid #E7E7E7; 
+    margin-left: 0px;
+    margin-bottom: 16px;
+    width: 100%;
+
+}
+
+.trans {
+    margin-right: 0px;
+    border: 1px solid #E7E7E7; 
+    margin-bottom: 16px;
+    width: 100%;
+}
+
+.like-arrow{
+    border: 1px solid #E7E7E7; 
+    width: 100%;
+}
+
+.phone:focus~.label-phone,
+.phone:not(:placeholder-shown).phone:not(:focus)~.label-phone {
+    top: 164px;
+    font-family: Manrope-Medium_0;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0.02em;
+
+
+}
+
+.Subject:focus~.label-subject,
+.Subject:not(:placeholder-shown).Subject:not(:focus)~.label-subject {
+    top: 51%;
+    font-family: Manrope-Medium_0;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0.02em;
+    text-align: left;
+}
+
+.message:focus~.label-massage,
+.message:not(:placeholder-shown).message:not(:focus)~.label-massage {
+    top: 68%;
+    font-family: Manrope-Medium_0;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0.02em;
+    text-align: left;
+}
+
+.disign {
+    background-color: #ffffff;
+    height: 131px;
+    width: 131%;
+    border-radius: 0 0 50% 50%/ 0 0 95% 93%;
+    position: absolute;
+    right: -63px;
+}
+
+h6{
+    padding-top: 164px;
+    margin-bottom: -8px;
+    font-size: 33px;
+}
+
+.talk-on {
+    font-size: 23px;
+}
+
+.red-box {
+    top: 101px;
+    width: 75px;
+}
+
+.img-logo {
+    width: 100%;
+}
+
+.foot-contact{
+    width: 100%;
+}
+
+.foot-contact {
+    width: 100%;
+    justify-content: start;
+}
+
+.contact-email {
+    width: 100%;
+}
+
+.Social-media-i {
+    width: 100%;
+    justify-content: start;
+    display: inline-grid;
+    padding-right: 0px;
+    margin-top: 25px;
+    margin-left: 0px;
+}
+
+.foot-logo {
+    padding-right: 73px;
+    margin-bottom: 25px;
+}
+
+.copy{
+    font-size: 12px;
+}
+
+.call{
+    font-size: 19px;
+}
+
+.foot-email{
+    font-size: 19px;
+}
+
+header::before {
+    height: 670px;
+}
+
+header::after {
+    height: 670px;
+}
+
+
+
+}
+
+@media only screen and (max-width: 375px){
+
+    h1{
+        font-size: 31px;
+    }
+
+    header::before {
+        height: 642px;
+    }
+    header::after {
+        height: 642px;
+    }
+
+    .Haifa{
+        width: 331px;
+    }
+h2{
+    font-size: 33px;
+    margin-bottom: 4px;
+}
+
+.Manama p:nth-child(2){
+    font-size: 13px;
+}
+
+.Manama p:nth-child(3) {
+    font-size: 14px;
+}
+
+.Manama p:nth-child(6){
+    font-size: 17px;
+}
+
+.Manama {
+    width: 174px;
+}
+
+.Duabi P:nth-child(2) {
+    font-size: 13px;
+}
+
+.Duabi p:nth-child(3){
+    font-size: 14px;
+}
+
+.Duabi p:nth-child(6) {
+    font-size: 17px;
+}
+
+.Duabi p:nth-child(5){
+    font-size: 13px;
+}
+
+.Manama p:nth-child(5) {
+    font-size: 13px;
+}
+
+.Duabi {
+    width: 145px;
+    margin-left: 15px;
+}
+
+.mail-id {
+    font-size: 16px;
+
+}
+
+.call-number{
+    font-size: 15px;
+  
+}
+
+.address {
+    font-size: 15px;
+}
+
+.hello-there {
+    width: 343px;
+    padding: 27px 15px;
+}
+
+.hello-there {
+    margin-left: -52px;
+    margin-top: 45px;
+}
+
+.hello-there p:nth-child(2){
+    font-size: 35px;
+}
+
+.hello-there p:nth-child(3){
+    font-size: 15px;
+}
+
+.call-number {
+    margin-left: 9px;
+}
+
+.mail-id {
+    margin-left: 9px;
+}
+
+.address{
+    margin-left: 9px;
+}
+
+.hello-there {
+    margin-left: -37.5px;
+    margin-top: 45px;
+    width: 317px;
+    padding: 27px 0px 27px 10px;
+}
+
+.dp-world {
+    width: 100%;
+    border: 1px solid #E7E7E7;
+}
+
+h6 {
+    padding-top: 167px;
+    margin-bottom: -8px;
+    font-size: 29px;
+}
+
+.talk-on {
+    font-size: 21px;
+    margin-bottom: 57px;
+}
+
+.arrow {
+    position: relative;
+    top: 8px;
+    margin-left: 8px;
+    width: 30px;
+}
+
+.Subject {
+    width: 100%;
+}
+
+.message {
+    width: 100%;
+}
+
+.contact-box {
+    width: 100%;
+}
+
+.Shipping {
+    width: 100%;
+    margin: auto;
+}
+
+
+
+
+
+}

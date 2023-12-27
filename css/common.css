@@ -1,0 +1,96 @@
+
+@import url(..//css/responsive.css);
+
+/* font-familly */
+
+@font-face {
+    font-family: Manrope-Light_0;
+    src: url(../font/Manrope-Light_0.otf);
+}
+
+@font-face {
+    font-family: Manrope-Medium_0;
+    src: url(../font/Manrope-Medium_0.otf);
+}
+
+@font-face {
+    font-family: Manrope-ExtraBold_0;
+    src: url(../font/Manrope-ExtraBold_0.otf);
+}
+
+@font-face {
+    font-family: Manrope-Bold_0;
+    src: url(../font/Manrope-Bold_0.otf);
+}
+
+@font-face {
+    font-family: Manrope-SemiBold_0;
+    src: url(../font/Manrope-SemiBold_0.otf);
+}
+
+@font-face {
+    font-family: Inter-Regular;
+    src: url(../font/Inter-Regular.ttf);
+}
+
+@font-face {
+    font-family: Sora-Regular;
+    src: url(../font/Sora-Regular.ttf);
+}
+
+@font-face {
+    font-family: Sora-Medium;
+    src: url(../font/Sora-Medium.ttf);
+}
+
+@font-face {
+    font-family: Sora-SemiBold;
+    src: url(../font/Sora-SemiBold.ttf);
+}
+@font-face {
+    font-family: Recoleta-SemiBold;
+    src: url(../font/Recoleta-SemiBold.ttf);
+}
+
+
+
+
+/* common property */
+
+
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.center {
+    text-align: center;
+}
+.jc-center {
+    justify-content:center;
+}
+.jc-end {
+    display:inline-block;
+    justify-content: end;
+}
+.jc-b {
+    justify-content: space-between;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.d-flex {
+    display: flex;
+}
+.ai-center {
+    align-items: center;
+}
+
+.mb{
+    margin-bottom: 32px;
+}
