@@ -3,6 +3,11 @@
     margin: auto;
 }
 
+nav{
+    z-index: 2;
+    position: relative;
+}
+
 header {
     position: relative;
     overflow: hidden;

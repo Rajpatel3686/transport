@@ -1,3 +1,51 @@
+@media only screen and (min-width: 1620px){
+
+    h1{
+        font-size: 56px;
+        line-height: 61px;
+        margin-bottom: 33px;
+
+    }
+
+    .text-boat p {
+        font-size: 21px;
+        line-height: 30px;
+    }
+    
+    header::after {
+        height: 700px !important;
+    }
+
+    header::before {
+        height: 700px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+/* @media only screen and (max-width: 1920px) and (min-width: 1620px){
+
+} */
+
 @media only screen and (min-width: 1400px){
 
     header::after{
@@ -341,6 +389,18 @@ h3{
 .road{
     padding: 0 0 25px 36px;
     margin-bottom: 39px;
+    width: 100%;
+}
+
+.boat{
+    margin-left: 39px;
+
+}
+
+.track {
+    margin-left: 33px;
+    border-radius: 24px;
+    margin-bottom: 58px;
 }
 
 .full-name {
@@ -384,47 +444,47 @@ h3{
 }
 
 .dp-world {
-    margin-bottom: 16px;
-    border: 1px solid #E7E7E7;
     width: 100%;
+    border: none;
+    border-bottom: 1px solid #E7E7E7;
 }
 
 .smart {
-    border: 1px solid #E7E7E7;
     height: 224px;
     margin-bottom: 16px;
     width: 100%;
+    border: none;
+    border-bottom: 1px solid #E7E7E7;
 }
 
-.dp-world {
-    width: 100px;
-    border: 1px solid #E7E7E7; 
-}
 
 .al-fares{
-    border: 1px solid #E7E7E7; 
     margin-bottom: 16px;
     width: 100%;
+    border: none;
+    border-bottom: 1px solid #E7E7E7;
 }
 
 .truker{
-    border: 1px solid #E7E7E7; 
     margin-left: 0px;
     margin-bottom: 16px;
     width: 100%;
-
+    border: none;
+    border-bottom: 1px solid #E7E7E7;
 }
 
 .trans {
     margin-right: 0px;
-    border: 1px solid #E7E7E7; 
     margin-bottom: 16px;
     width: 100%;
+    border: none;
+    border-bottom: 1px solid #E7E7E7;
 }
 
 .like-arrow{
-    border: 1px solid #E7E7E7; 
     width: 100%;
+    border: none;
+    border-bottom: 1px solid #E7E7E7;
 }
 
 .phone:focus~.label-phone,
@@ -539,6 +599,159 @@ header::after {
 
 
 }
+
+@media only screen and (max-width: 385px){
+
+    .Shipping {
+        width: 100%;
+        margin: auto;
+    }
+
+    .track {
+        margin-left: -3px;
+        border-radius: 24px;
+        margin-bottom: 58px;
+    }
+
+    .Ocean {
+        width: 100%;
+}
+
+.boat {
+    margin-left: 35px;
+}
+
+.Haifa {
+    width: 100%;
+}
+
+
+.mail-id {
+    font-size: 16px;
+
+}
+
+.call-number{
+    font-size: 15px;
+  
+}
+
+.address {
+    font-size: 15px;
+}
+
+.hello-there {
+    width: 343px;
+    padding: 27px 15px;
+}
+
+.hello-there {
+    margin-left: -52px;
+    margin-top: 45px;
+}
+
+.hello-there p:nth-child(2){
+    font-size: 35px;
+}
+
+.hello-there p:nth-child(3){
+    font-size: 15px;
+}
+
+.call-number {
+    margin-left: 9px;
+}
+
+.mail-id {
+    margin-left: 9px;
+}
+
+.address{
+    margin-left: 9px;
+}
+
+.hello-there {
+    margin-left: -33.5px;
+    margin-top: 45px;
+    width: 317px;
+    padding: 27px 0px 27px 10px;
+}
+
+.Manama p:nth-child(2){
+    font-size: 13px;
+}
+
+.Manama p:nth-child(3) {
+    font-size: 14px;
+}
+
+.Manama p:nth-child(6){
+    font-size: 17px;
+}
+
+.Manama {
+    width: 174px;
+}
+
+.Duabi P:nth-child(2) {
+    font-size: 13px;
+}
+
+.Duabi p:nth-child(3){
+    font-size: 14px;
+}
+
+.Duabi p:nth-child(6) {
+    font-size: 17px;
+}
+
+.Duabi p:nth-child(5){
+    font-size: 13px;
+}
+
+.Manama p:nth-child(5) {
+    font-size: 13px;
+}
+
+.Duabi {
+    width: 145px;
+    margin-left: 15px;
+}
+
+.red-box {
+    top: 105px;
+    width: 75px;
+}
+
+.Subject {
+    width: 100%;
+}
+
+.message {
+    width: 100%;
+}
+
+h5 {
+    margin-top: 72px;
+    text-align: center;
+}
+
+.copy {
+    font-size: 9px;
+}
+
+h3 {
+    font-size: 33px;
+}
+
+
+
+}
+
+
+
+
+
 
 @media only screen and (max-width: 375px){
 
@@ -697,6 +910,23 @@ h6 {
     top: 106px;
     width: 75px;
 }
+
+.road{
+    width: 100%;
+}
+
+.track{
+    margin-left: -13px;
+}
+
+.boat{
+    margin-left: 34px;
+}
+
+h5{
+    text-align: center;
+}
+
 
 
 
