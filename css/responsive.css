@@ -744,6 +744,28 @@ h3 {
     font-size: 33px;
 }
 
+header::before {
+    height: 647px;
+}
+
+h6{
+    font-size: 30px;
+}
+
+.talk-on {
+    font-size: 21px;
+
+}
+
+.arrow {
+    position: relative;
+    top: 8px;
+    margin-left: 8px;
+    width: 27px;
+}
+
+
+
 
 
 }
