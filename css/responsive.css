@@ -661,7 +661,7 @@ h2{
 h6 {
     padding-top: 167px;
     margin-bottom: -8px;
-    font-size: 29px;
+    font-size: 27px;
 }
 
 .talk-on {
@@ -693,7 +693,10 @@ h6 {
     margin: auto;
 }
 
-
+.red-box {
+    top: 106px;
+    width: 75px;
+}
 
 
 
