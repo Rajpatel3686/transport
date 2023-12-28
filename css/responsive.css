@@ -361,9 +361,9 @@
 
 }
 
-@media only screen and (max-width: 431px){
+@media only screen and (max-width: 431px) {
 
-    
+
     .text-boat {
         width: 100%;
     }
@@ -384,11 +384,12 @@
 
     h2 {
         margin-top: 53px;
+        font-size: 34px;
     }
 
     h3 {
-        font-size: 36px;
-        line-height: 46px;
+        font-size: 28px;
+        line-height: 42px;
     }
 
     .Ocean p {
@@ -456,6 +457,7 @@
         width: 100%;
         border: none;
         border-bottom: 1px solid #E7E7E7;
+        height: 150px;
     }
 
     .smart {
@@ -464,6 +466,7 @@
         width: 100%;
         border: none;
         border-bottom: 1px solid #E7E7E7;
+        height: 150px;
     }
 
 
@@ -472,6 +475,7 @@
         width: 100%;
         border: none;
         border-bottom: 1px solid #E7E7E7;
+        height: 150px;
     }
 
     .truker {
@@ -480,6 +484,7 @@
         width: 100%;
         border: none;
         border-bottom: 1px solid #E7E7E7;
+        height: 150px;
     }
 
     .trans {
@@ -488,12 +493,14 @@
         width: 100%;
         border: none;
         border-bottom: 1px solid #E7E7E7;
+        height: 150px;
     }
 
     .like-arrow {
         width: 100%;
         border: none;
         border-bottom: 1px solid #E7E7E7;
+        height: 150px;
     }
 
     .phone:focus~.label-phone,
@@ -542,7 +549,7 @@
     h6 {
         padding-top: 164px;
         margin-bottom: -8px;
-        font-size: 33px;
+        font-size: 30px;
     }
 
     .talk-on {
@@ -609,6 +616,20 @@
         margin-top: 72px;
         text-align: center;
         line-height: 50px;
+    }
+
+    .contact {
+        padding: 39px 15px 20px;
+    }
+
+    .hello-there {
+        margin-left: 0px;
+        margin-top: 45px;
+        width: 100%;
+    }
+
+    .hello-there p:nth-child(3) {
+        font-size: 17px;
     }
 
 }
@@ -1143,18 +1164,25 @@
     }
 
     .hello-there {
-        margin-left: -37.5px;
+        margin-left: 0px;
         margin-top: 45px;
-        width: 317px;
+        width: 100%;
         padding: 27px 0px 27px 10px;
     }
-
 
 
     .dp-world {
         width: 100%;
         border-bottom: 1px solid #E7E7E7;
+        height: 150px;
+    }
 
+    .smart {
+        height: 150px;
+    }
+
+    .al-fares{
+        height: 150px;
     }
 
     h6 {
@@ -1213,8 +1241,13 @@
 
     h5 {
         text-align: center;
+        font-size: 32px;
     }
 
+    h3 {
+        font-size: 25px;
+        line-height: 36px;
+    }
 
 
 
@@ -1224,140 +1257,140 @@
 
     header::before {
         height: 801px;
-        }
+    }
 
-        header::after {
-            height: 801px;
-        }
+    header::after {
+        height: 801px;
+    }
 
-        .Manama {
-            width: 48%;
-        }
-    
-        .Duabi {
-            width: 48%;
-            margin-left: 11px;
-        }
-    
-        .Duabi p:nth-child(3) {
-            font-size: 14px;
-            margin-bottom: 39px;
-        }
-    
-        .Manama img {
-            margin-bottom: 12px;
-            width: 100%;
-        }
-    
-        .Manama-to-Haifa {
-            width: 226px;
-        }
-    
-        .Haifa {
-            width: 100%;
-        }
+    .Manama {
+        width: 48%;
+    }
 
-        h3 {
-            font-size: 30px;
-            line-height: 42px;
-        }
+    .Duabi {
+        width: 48%;
+        margin-left: 11px;
+    }
 
-        .contact {
-            width: 100%;
-            padding: 51px 8px 11px;
-        }
-    
-        .contact-details img {
-            margin-bottom: 15px;
-        }
-    
-        .contact-details {
-            padding-right: 55px;
-            margin-bottom: 24px;
-        }
+    .Duabi p:nth-child(3) {
+        font-size: 14px;
+        margin-bottom: 39px;
+    }
 
-        .hello-there {
-            margin-left: -0.5px;
-            margin-top: 45px;
-            width: 100%;
-            padding: 27px 0px 27px 10px;
-        }
+    .Manama img {
+        margin-bottom: 12px;
+        width: 100%;
+    }
 
-h5{
-    font-size: 37px;
-    font-weight: 700;
-    line-height: 45px;
-}
+    .Manama-to-Haifa {
+        width: 226px;
+    }
+
+    .Haifa {
+        width: 100%;
+    }
+
+    h3 {
+        font-size: 30px;
+        line-height: 42px;
+    }
+
+    .contact {
+        width: 100%;
+        padding: 51px 8px 11px;
+    }
+
+    .contact-details img {
+        margin-bottom: 15px;
+    }
+
+    .contact-details {
+        padding-right: 55px;
+        margin-bottom: 24px;
+    }
+
+    .hello-there {
+        margin-left: -0.5px;
+        margin-top: 45px;
+        width: 100%;
+        padding: 27px 0px 27px 10px;
+    }
+
+    h5 {
+        font-size: 37px;
+        font-weight: 700;
+        line-height: 45px;
+    }
 }
 
 @media only screen and (max-width: 350px) {
 
     header::before {
         height: 801px;
-        }
+    }
 
-        header::after {
-            height: 801px;
-        }
+    header::after {
+        height: 801px;
+    }
 
-        .Manama {
-            width: 48%;
-        }
-    
-        .Duabi {
-            width: 48%;
-            margin-left: 11px;
-        }
-    
-        .Duabi p:nth-child(3) {
-            font-size: 14px;
-            margin-bottom: 39px;
-        }
-    
-        .Manama img {
-            margin-bottom: 12px;
-            width: 100%;
-        }
-    
-        .Manama-to-Haifa {
-            width: 226px;
-        }
-    
-        .Haifa {
-            width: 100%;
-        }
+    .Manama {
+        width: 48%;
+    }
 
-        h3 {
-            font-size: 30px;
-            line-height: 42px;
-        }
+    .Duabi {
+        width: 48%;
+        margin-left: 11px;
+    }
 
-        .contact {
-            width: 100%;
-            padding: 51px 8px 11px;
-        }
-    
-        .contact-details img {
-            margin-bottom: 15px;
-        }
-    
-        .contact-details {
-            padding-right: 55px;
-            margin-bottom: 24px;
-        }
+    .Duabi p:nth-child(3) {
+        font-size: 14px;
+        margin-bottom: 39px;
+    }
 
-        .hello-there {
-            margin-left: -0.5px;
-            margin-top: 45px;
-            width: 100%;
-            padding: 27px 0px 27px 10px;
-        }
+    .Manama img {
+        margin-bottom: 12px;
+        width: 100%;
+    }
 
-h5{
-    font-size: 37px;
-    font-weight: 700;
-    line-height: 45px;
-}
+    .Manama-to-Haifa {
+        width: 226px;
+    }
+
+    .Haifa {
+        width: 100%;
+    }
+
+    h3 {
+        font-size: 30px;
+        line-height: 42px;
+    }
+
+    .contact {
+        width: 100%;
+        padding: 51px 8px 11px;
+    }
+
+    .contact-details img {
+        margin-bottom: 15px;
+    }
+
+    .contact-details {
+        padding-right: 55px;
+        margin-bottom: 24px;
+    }
+
+    .hello-there {
+        margin-left: -0.5px;
+        margin-top: 45px;
+        width: 100%;
+        padding: 27px 0px 27px 10px;
+    }
+
+    h5 {
+        font-size: 37px;
+        font-weight: 700;
+        line-height: 45px;
+    }
 
 
 
