@@ -813,7 +813,12 @@
     }
 
     .Manama {
-        width: 174px;
+        width: 52%;
+    }
+
+    .Manama img {
+        margin-bottom: 12px;
+        width: 100%;
     }
 
     .Duabi P:nth-child(2) {
@@ -837,7 +842,7 @@
     }
 
     .Duabi {
-        width: 145px;
+        width: 43%;
         margin-left: 15px;
     }
 
@@ -963,7 +968,77 @@
 
 }
 
-@media only screen and (max-width: 350px){
+@media only screen and (max-width: 371px) {
+
+    header::before {
+        height: 801px;
+        }
+
+        header::after {
+            height: 801px;
+        }
+
+        .Manama {
+            width: 48%;
+        }
+    
+        .Duabi {
+            width: 48%;
+            margin-left: 11px;
+        }
+    
+        .Duabi p:nth-child(3) {
+            font-size: 14px;
+            margin-bottom: 39px;
+        }
+    
+        .Manama img {
+            margin-bottom: 12px;
+            width: 100%;
+        }
+    
+        .Manama-to-Haifa {
+            width: 226px;
+        }
+    
+        .Haifa {
+            width: 100%;
+        }
+
+        h3 {
+            font-size: 30px;
+            line-height: 42px;
+        }
+
+        .contact {
+            width: 100%;
+            padding: 51px 8px 11px;
+        }
+    
+        .contact-details img {
+            margin-bottom: 15px;
+        }
+    
+        .contact-details {
+            padding-right: 55px;
+            margin-bottom: 24px;
+        }
+
+        .hello-there {
+            margin-left: -0.5px;
+            margin-top: 45px;
+            width: 100%;
+            padding: 27px 0px 27px 10px;
+        }
+
+h5{
+    font-size: 37px;
+    font-weight: 700;
+    line-height: 45px;
+}
+}
+
+@media only screen and (max-width: 350px) {
 
     header::before {
         height: 801px;
