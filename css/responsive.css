@@ -403,14 +403,17 @@
     }
 
     .boat {
-        margin-left: 39px;
+        margin-left: 57px;
+        margin-bottom: 27px;
+        width: 84%;
 
     }
 
     .track {
-        margin-left: 0px;
+        margin-left: 56px;
         border-radius: 24px;
-        margin-bottom: 58px;
+        margin-bottom: 27px;
+        width: 84%;
     }
 
     .full-name {
@@ -612,14 +615,20 @@
         height: 670px;
     }
 
+    h4{
+        font-size: 33px;
+    }
+
     h5 {
-        margin-top: 72px;
+        margin-top: 48px;
         text-align: center;
         line-height: 50px;
+        font-size: 35px;
+        margin-bottom: 24px;
     }
 
     .contact {
-        padding: 39px 15px 20px;
+        padding: 21px 15px 20px;
     }
 
     .hello-there {
@@ -631,6 +640,68 @@
     .hello-there p:nth-child(3) {
         font-size: 17px;
     }
+
+    .hello-there p:nth-child(2){
+        font-size: 36px;
+    }
+
+    .contact-details {
+        padding-right: 4px;
+        margin-bottom: 40px;
+    }
+
+    .talk-on{
+        margin-bottom: 22px;
+    }
+
+    .contact-box {
+        border-top: 1px solid #FFFFFF0D;
+        padding-top: 29px;
+        width: 100%;
+        margin: auto;
+    }
+
+    .contact-details img {
+        margin-bottom: 14px;
+    }
+
+    .mail-id{
+        margin-left: 9px;
+        margin-bottom: 18px;
+    }
+
+    .call-number{
+        margin-left: 9px;
+        margin-bottom: 18px;
+    }
+
+    .address{
+        margin-left: 9px;
+       
+    }
+
+    .contact-details {
+        padding-right: 4px;
+        margin-bottom: 33px;
+    }
+
+    .hello-there {
+        width: 100%;
+        padding: 17px 15px;
+    }
+
+    .contact {
+        padding: 21px 15px 17px;
+    }
+
+
+
+
+
+
+
+
+
 
 }
 
