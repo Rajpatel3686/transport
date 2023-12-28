@@ -1,3 +1,18 @@
+@media only screen and (min-width: 1920px){
+
+
+    header::before {
+        height: 819px !important;
+    }
+
+    header::after {
+        height: 819px !important;
+    }
+
+
+
+}
+
 @media only screen and (min-width: 1620px) {
 
     h1 {
@@ -20,28 +35,11 @@
         height: 700px;
     }
 
-    .kilometres {
-        width: 50%;
-    }
-
-    .map {
-        width: 50%;
-        margin-top: 118px;
-    }
-
-    h2 {
-        font-size: 56px;
-    }
-
-    .kilometres .kilometres-header p {
-        font-size: 23px;
-    }
-
-    .full-name {
+    .full-name{
         width: 80%;
     }
 
-    .email {
+    .email{
         width: 38%;
     }
 
@@ -49,153 +47,30 @@
         width: 38%;
     }
 
-    .Subject {
+    .Subject{
         width: 80%;
     }
 
-    .message {
-        width: 80%;
-    }
+.message{
+    width: 80%;
+}
 
-    .hello-there {
-        width: 97%;
-    }
+.label-phone {
+    left: 41.5%!important;
+}
 
-    .Ocean {
-        width: 35%;
-    }
+.hello-there {
+    width: 96%;
+}
 
-    .road {
-        width: 35%;
-    }
+video {
+    max-width: 851.39px;
+}
 
-    .track {
-        margin-left: 52px;
-        border-radius: 24px;
-        margin-bottom: 58px;
-        width: 89%;
-    }
-
-    .boat {
-        margin-bottom: 58px;
-        margin-left: 51px;
-        width: 89%;
-    }
-
-    .label-phone {
-        left: 41.3%;
-    }
-
-    .Shipping {
-        width: 60%;
-        margin: auto;
-    }
-
-    h3 {
-        font-size: 57px;
-        line-height: 65px;
-    }
-
-    .track {
-        margin-left: 63px;
-    }
-
-    .boat {
-        margin-left: 62px;
-    }
-
-    .road p {
-        font-size: 38px;
-    }
-
-    .Ocean p {
-        font-size: 38px;
-    }
-
-    .kilometres .kilometres-header p {
-        font-size: 28px;
-        line-height: 37px;
-    }
-
-    .full-name {
-        width: 90%;
-    }
-
-    .email {
-        width: 43.5%;
-    }
-
-    .phone {
-        width: 43.5%;
-    }
-
-    .label-phone {
-        left: 46.5% !important;
-    }
-
-    h4 {
-        font-size: 44px;
-        margin-bottom: 18px;
-    }
-
-    .form-name {
-        font-size: 22px;
-    }
-
-    .label-email {
-        font-size: 22px;
-    }
-
-    .label-phone {
-        font-size: 22px;
-    }
-
-    .label-subject {
-        font-size: 22px;
-    }
-
-    .label-massage {
-        font-size: 22px;
-    }
-
-    .contact-text p {
-        font-size: 23px;
-    }
-
-    .contact-text button {
-        font-size: 17px;
-    }
-
-    .hello-there p:nth-child(3) {
-        font-size: 21px;
-        line-height: 32px;
-    }
-
-    .call-number {
-        font-size: 22px;
-    }
-
-    .mail-id {
-        font-size: 22px;
-    }
-
-    .address {
-        font-size: 22px;
-    }
-
-    header::before {
-        height: 819px !important;
-    }
-
-    header::after {
-        height: 819px !important;
-    }
-
-
-
-
-
-
+.map{
+    display: flex;
+    justify-content: center;
+}
 
 }
 
