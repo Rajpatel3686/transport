@@ -361,6 +361,258 @@
 
 }
 
+@media only screen and (max-width: 431px){
+
+    
+    .text-boat {
+        width: 100%;
+    }
+
+    .img-boat {
+        width: 100%;
+    }
+
+    .img-boat img {
+        right: 0%;
+        width: 100%;
+    }
+
+    .Shipping {
+        width: 377px;
+        margin: auto;
+    }
+
+    h2 {
+        margin-top: 53px;
+    }
+
+    h3 {
+        font-size: 36px;
+        line-height: 46px;
+    }
+
+    .Ocean p {
+        padding-bottom: 25px;
+    }
+
+    .road {
+        padding: 0 0 25px 36px;
+        margin-bottom: 39px;
+        width: 100%;
+    }
+
+    .boat {
+        margin-left: 39px;
+
+    }
+
+    .track {
+        margin-left: 0px;
+        border-radius: 24px;
+        margin-bottom: 58px;
+    }
+
+    .full-name {
+        width: 100%;
+    }
+
+    .email {
+        width: 100%;
+    }
+
+    .phone {
+        width: 100%;
+        margin-left: 0px;
+    }
+
+    .label-phone {
+        left: 0%;
+        top: 37%;
+    }
+
+    .label-subject {
+        top: 55%;
+    }
+
+    .label-email {
+        top: 20%;
+    }
+
+    .label-massage {
+        top: 72%;
+    }
+
+    .hello-there {
+        margin-left: -40px;
+        margin-top: 45px;
+    }
+
+    .hello-there {
+        width: 371px;
+        padding: 27px 15px;
+    }
+
+    .dp-world {
+        width: 100%;
+        border: none;
+        border-bottom: 1px solid #E7E7E7;
+    }
+
+    .smart {
+        height: 224px;
+        margin-bottom: 16px;
+        width: 100%;
+        border: none;
+        border-bottom: 1px solid #E7E7E7;
+    }
+
+
+    .al-fares {
+        margin-bottom: 16px;
+        width: 100%;
+        border: none;
+        border-bottom: 1px solid #E7E7E7;
+    }
+
+    .truker {
+        margin-left: 0px;
+        margin-bottom: 16px;
+        width: 100%;
+        border: none;
+        border-bottom: 1px solid #E7E7E7;
+    }
+
+    .trans {
+        margin-right: 0px;
+        margin-bottom: 16px;
+        width: 100%;
+        border: none;
+        border-bottom: 1px solid #E7E7E7;
+    }
+
+    .like-arrow {
+        width: 100%;
+        border: none;
+        border-bottom: 1px solid #E7E7E7;
+    }
+
+    .phone:focus~.label-phone,
+    .phone:not(:placeholder-shown).phone:not(:focus)~.label-phone {
+        top: 164px;
+        font-family: Manrope-Medium_0;
+        font-size: 14px;
+        font-weight: 500;
+        line-height: 19px;
+        letter-spacing: 0.02em;
+
+
+    }
+
+    .Subject:focus~.label-subject,
+    .Subject:not(:placeholder-shown).Subject:not(:focus)~.label-subject {
+        top: 51%;
+        font-family: Manrope-Medium_0;
+        font-size: 14px;
+        font-weight: 500;
+        line-height: 19px;
+        letter-spacing: 0.02em;
+        text-align: left;
+    }
+
+    .message:focus~.label-massage,
+    .message:not(:placeholder-shown).message:not(:focus)~.label-massage {
+        top: 68%;
+        font-family: Manrope-Medium_0;
+        font-size: 14px;
+        font-weight: 500;
+        line-height: 19px;
+        letter-spacing: 0.02em;
+        text-align: left;
+    }
+
+    .disign {
+        background-color: #ffffff;
+        height: 131px;
+        width: 131%;
+        border-radius: 0 0 50% 50%/ 0 0 95% 93%;
+        position: absolute;
+        right: -63px;
+    }
+
+    h6 {
+        padding-top: 164px;
+        margin-bottom: -8px;
+        font-size: 33px;
+    }
+
+    .talk-on {
+        font-size: 23px;
+    }
+
+    .red-box {
+        top: 101px;
+        width: 75px;
+    }
+
+    .img-logo {
+        width: 100%;
+    }
+
+    .foot-contact {
+        width: 100%;
+    }
+
+    .foot-contact {
+        width: 100%;
+        justify-content: start;
+    }
+
+    .contact-email {
+        width: 100%;
+    }
+
+    .Social-media-i {
+        width: 100%;
+        justify-content: start;
+        display: inline-grid;
+        padding-right: 0px;
+        margin-top: 25px;
+        margin-left: 0px;
+    }
+
+    .foot-logo {
+        padding-right: 73px;
+        margin-bottom: 25px;
+    }
+
+    .copy {
+        font-size: 12px;
+    }
+
+    .call {
+        font-size: 19px;
+    }
+
+    .foot-email {
+        font-size: 19px;
+    }
+
+    header::before {
+        height: 670px;
+    }
+
+    header::after {
+        height: 670px;
+    }
+
+    h5 {
+        margin-top: 72px;
+        text-align: center;
+        line-height: 50px;
+    }
+
+}
+
 @media only screen and (max-width: 425px) {
 
     .text-boat {
@@ -405,7 +657,7 @@
     }
 
     .track {
-        margin-left: 33px;
+        margin-left: 0px;
         border-radius: 24px;
         margin-bottom: 58px;
     }
