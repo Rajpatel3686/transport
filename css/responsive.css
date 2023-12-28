@@ -20,20 +20,176 @@
         height: 700px;
     }
 
+    .kilometres {
+        width: 50%;
+    }
 
+    .map {
+        width: 50%;
+        margin-top: 118px;
+    }
 
+    h2 {
+        font-size: 56px;
+    }
 
+    .kilometres .kilometres-header p {
+        font-size: 23px;
+    }
 
+    .full-name {
+        width: 80%;
+    }
 
+    .email {
+        width: 38%;
+    }
 
+    .phone {
+        width: 38%;
+    }
 
+    .Subject {
+        width: 80%;
+    }
 
+    .message {
+        width: 80%;
+    }
 
+    .hello-there {
+        width: 97%;
+    }
 
+    .Ocean {
+        width: 35%;
+    }
 
+    .road {
+        width: 35%;
+    }
 
+    .track {
+        margin-left: 52px;
+        border-radius: 24px;
+        margin-bottom: 58px;
+        width: 89%;
+    }
 
+    .boat {
+        margin-bottom: 58px;
+        margin-left: 51px;
+        width: 89%;
+    }
 
+    .label-phone {
+        left: 41.3%;
+    }
+
+    .Shipping {
+        width: 60%;
+        margin: auto;
+    }
+
+    h3 {
+        font-size: 57px;
+        line-height: 65px;
+    }
+
+    .track {
+        margin-left: 63px;
+    }
+
+    .boat {
+        margin-left: 62px;
+    }
+
+    .road p {
+        font-size: 38px;
+    }
+
+    .Ocean p {
+        font-size: 38px;
+    }
+
+    .kilometres .kilometres-header p {
+        font-size: 28px;
+        line-height: 37px;
+    }
+
+    .full-name {
+        width: 90%;
+    }
+
+    .email {
+        width: 43.5%;
+    }
+
+    .phone {
+        width: 43.5%;
+    }
+
+    .label-phone {
+        left: 46.5% !important;
+    }
+
+    h4 {
+        font-size: 44px;
+        margin-bottom: 18px;
+    }
+
+    .form-name {
+        font-size: 22px;
+    }
+
+    .label-email {
+        font-size: 22px;
+    }
+
+    .label-phone {
+        font-size: 22px;
+    }
+
+    .label-subject {
+        font-size: 22px;
+    }
+
+    .label-massage {
+        font-size: 22px;
+    }
+
+    .contact-text p {
+        font-size: 23px;
+    }
+
+    .contact-text button {
+        font-size: 17px;
+    }
+
+    .hello-there p:nth-child(3) {
+        font-size: 21px;
+        line-height: 32px;
+    }
+
+    .call-number {
+        font-size: 22px;
+    }
+
+    .mail-id {
+        font-size: 22px;
+    }
+
+    .address {
+        font-size: 22px;
+    }
+
+    header::before {
+        height: 819px !important;
+    }
+
+    header::after {
+        height: 819px !important;
+    }
 
 
 
@@ -615,7 +771,7 @@
         height: 670px;
     }
 
-    h4{
+    h4 {
         font-size: 33px;
     }
 
@@ -641,7 +797,7 @@
         font-size: 17px;
     }
 
-    .hello-there p:nth-child(2){
+    .hello-there p:nth-child(2) {
         font-size: 36px;
     }
 
@@ -650,7 +806,7 @@
         margin-bottom: 40px;
     }
 
-    .talk-on{
+    .talk-on {
         margin-bottom: 22px;
     }
 
@@ -665,19 +821,19 @@
         margin-bottom: 14px;
     }
 
-    .mail-id{
+    .mail-id {
         margin-left: 9px;
         margin-bottom: 18px;
     }
 
-    .call-number{
+    .call-number {
         margin-left: 9px;
         margin-bottom: 18px;
     }
 
-    .address{
+    .address {
         margin-left: 9px;
-       
+
     }
 
     .contact-details {
@@ -792,6 +948,9 @@
     .hello-there {
         width: 371px;
         padding: 27px 15px;
+        margin-left: -9px;
+        margin-top: 45px;
+
     }
 
     .dp-world {
@@ -948,6 +1107,80 @@
     }
 
 
+
+}
+
+@media only screen and (max-width: 395px) {
+
+    .Manama {
+        width: 47%;
+    }
+
+    .Duabi {
+        width: 46%;
+    }
+
+    .Manama img {
+        margin-bottom: 12px;
+        width: 100%;
+    }
+
+    .Duabi p:nth-child(3) {
+        margin-bottom: 39px;
+    }
+
+    .Shipping {
+        width: 100%;
+        margin: auto;
+    }
+
+    h3 {
+        font-size: 26px;
+    }
+
+    .track {
+        margin-left: 51px;
+        border-radius: 24px;
+        margin-bottom: 27px;
+    }
+
+    .boat {
+        margin-left: 52px;
+    }
+
+    .hello-there {
+        width: 100%;
+        padding: 27px 15px;
+        margin-left: 0px;
+    }
+
+    .mail-id {
+        font-size: 16px
+    }
+
+    .call-number {
+        font-size: 16px
+    }
+
+    .address {
+        font-size: 16px
+    }
+
+    h6 {
+        font-size: 27px;
+    }
+
+    .arrow {
+        position: relative;
+        top: 6px;
+        margin-left: 8px;
+        width: 26px;
+    }
+
+    .red-box {
+        top: 104px;
+        width: 75px;
+    }
 
 }
 
@@ -1252,7 +1485,7 @@
         height: 150px;
     }
 
-    .al-fares{
+    .al-fares {
         height: 150px;
     }
 

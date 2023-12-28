@@ -3,7 +3,7 @@
     margin: auto;
 }
 
-nav{
+nav {
     z-index: 2;
     position: relative;
 }
@@ -336,7 +336,7 @@ h2 {
 
 }
 
-video{
+video {
     width: 100%;
 }
 
@@ -692,7 +692,7 @@ form {
     line-height: 33px;
     letter-spacing: 0.02em;
     outline: none;
-    margin-bottom:48px;
+    margin-bottom: 48px;
 
 }
 
@@ -742,7 +742,7 @@ form {
 
 }
 
-.hello-there{
+.hello-there {
     width: 408px;
     background-color: #FFFFFF;
     border: 1px solid #000000;
@@ -751,104 +751,106 @@ form {
     margin-left: 16px;
 }
 
-.contact-details{
+.contact-details {
     padding-right: 55px;
     margin-bottom: 40px;
 }
 
 .contact-details img {
-margin-bottom: 40px;
+    margin-bottom: 40px;
 }
 
-.hello-there p:nth-child(2){
+.hello-there p:nth-child(2) {
     font-family: Recoleta-SemiBold;
-font-size: 40px;
-font-weight: 600;
-line-height: 54px;
-letter-spacing: 0.01em;
-text-align: left;
-color: #000000;
-margin-bottom: 12px;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 54px;
+    letter-spacing: 0.01em;
+    text-align: left;
+    color: #000000;
+    margin-bottom: 12px;
 
 }
 
-.hello-there p:nth-child(3){
-    font-family:Manrope-Medium_0;
-font-size: 18px;
-font-weight: 500;
-line-height: 27px;
-letter-spacing: 0.01em;
-text-align: left;
-color: #000000CC;
+.hello-there p:nth-child(3) {
+    font-family: Manrope-Medium_0;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 27px;
+    letter-spacing: 0.01em;
+    text-align: left;
+    color: #000000CC;
 }
 
-.call-number{
+.call-number {
     font-family: Sora-Regular;
-font-size: 18px;
-font-weight: 400;
-line-height: 23px;
-letter-spacing: -0.02em;
-text-align: left;
-color: #000000;
-text-decoration: none;
-margin-left: 18px;
-margin-bottom: 32px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    color: #000000;
+    text-decoration: none;
+    margin-left: 18px;
+    margin-bottom: 32px;
 }
 
-.mail-id{
-    font-family:  Sora-Regular;
-font-size: 18px;
-font-weight: 400;
-line-height: 23px;
-letter-spacing: -0.02em;
-text-align: left;
-color: #000000;
-text-decoration: none;
-margin-left: 18px;
-margin-bottom: 32px;
+.mail-id {
+    font-family: Sora-Regular;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    color: #000000;
+    text-decoration: none;
+    margin-left: 18px;
+    margin-bottom: 32px;
 }
 
 
 
-.address{
-    font-family:Sora-Regular;
-font-size: 18px;
-font-weight: 400;
-line-height: 27px;
-letter-spacing: -0.02em;
-text-align: left;
-color: #000000;
-margin-left: 18px;
-text-decoration: none;
+.address {
+    font-family: Sora-Regular;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    color: #000000;
+    margin-left: 18px;
+    text-decoration: none;
 }
 
 
 /* section-3 */
 
-h5{
+h5 {
     font-family: Manrope-ExtraBold_0;
-font-size: 40px;
-font-weight: 700;
-line-height: 55px;
-letter-spacing: 0em;
-text-align: left;
-color: #000000;
-display: flex;
-justify-content:center;
-margin-top: 120px;
-margin-bottom: 44px;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 55px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+    display: flex;
+    justify-content: center;
+    margin-top: 120px;
+    margin-bottom: 44px;
 }
-.dp-world{
-    
+
+.dp-world {
+
     border-right: 1px solid #E7E7E7;
     border-bottom: 1px solid #E7E7E7;
 }
-.dp-world:hover{
-    background-color:#FBFBFB
+
+.dp-world:hover {
+    background-color: #FBFBFB
 }
 
 
-.smart{
+.smart {
     width: 316px;
     height: 184px;
     align-items: center;
@@ -857,51 +859,51 @@ margin-bottom: 44px;
 
 }
 
-.smart:hover{
-    background-color:#FBFBFB;
+.smart:hover {
+    background-color: #FBFBFB;
 }
 
-.al-fares{
+.al-fares {
     border-left: 1px solid #E7E7E7;
     border-bottom: 1px solid #E7E7E7;
 }
 
-.al-fares:hover{
-    background-color:#FBFBFB;
+.al-fares:hover {
+    background-color: #FBFBFB;
 }
 
-.truker{
+.truker {
     border-right: 1px solid #E7E7E7;
 }
 
-.truker:hover{
-    background-color:#FBFBFB;
+.truker:hover {
+    background-color: #FBFBFB;
 }
 
-.trans{
+.trans {
     border-right: 1px solid #E7E7E7;
     border-top: 1px solid #E7E7E7;
     margin-top: -1px;
 }
 
-.trans:hover{
-    background-color:#FBFBFB;
+.trans:hover {
+    background-color: #FBFBFB;
 }
 
-.like-arrow:hover{
-    background-color:#FBFBFB;
+.like-arrow:hover {
+    background-color: #FBFBFB;
 }
 
 /* footer */
 
-footer{
+footer {
     background-color: #0A0F1E;
     position: relative;
     overflow: hidden;
 }
 
-.disign{
-   
+.disign {
+
     background-color: #ffffff;
     height: 131px;
     width: 112%;
@@ -910,82 +912,82 @@ footer{
     right: -69px;
 }
 
-h6{
-    font-family:Manrope-ExtraBold_0;
-font-size: 48px;
-font-weight: 700;
-line-height: 66px;
-letter-spacing: 0em;
-text-align: left;
-color: #FFFFFF;
-display: flex;
-justify-content: center;
-padding-top: 200px;
-margin-bottom: 18px;
+h6 {
+    font-family: Manrope-ExtraBold_0;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 66px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    padding-top: 200px;
+    margin-bottom: 18px;
 }
 
-.talk-on{
+.talk-on {
     font-family: Manrope-Medium_0;
-font-size: 32px;
-font-weight: 500;
-line-height: 44px;
-letter-spacing: 0.02em;
-text-align: left;
-color: #FFFFFF;
-margin: auto;
-margin-bottom: 78px;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 44px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: #FFFFFF;
+    margin: auto;
+    margin-bottom: 78px;
 }
 
-.arrow{
+.arrow {
     position: relative;
     top: 10px;
     margin-left: 8px;
 }
 
-.red-box{
+.red-box {
     position: absolute;
     top: 87px;
     right: 0;
 }
 
-.contact-box{
+.contact-box {
     border-top: 1px solid #FFFFFF0D;
     padding-top: 54px;
     width: 85%;
     margin: auto;
 }
 
-.foot-logo{
+.foot-logo {
     padding-right: 73px;
-} 
-
-
-.foot-contact p{
-    font-family:Sora-Regular;
-font-size: 16px;
-font-weight: 400;
-line-height: 24px;
-letter-spacing: -0.02em;
-text-align: left;
-color: #FFFFFF;
-margin-bottom: 4px;
 }
 
-.foot-contact p span{
-    font-family:Sora-Medium;
-font-size: 14px;
-font-weight: 500;
-line-height: 18px;
-letter-spacing: -0.02em;
-text-align: left;
-color: #161B29;
-background-color: #FFFFFF;
-padding: 0 4px;
-border-radius: 4px;
+
+.foot-contact p {
+    font-family: Sora-Regular;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    color: #FFFFFF;
+    margin-bottom: 4px;
 }
 
-.call{
-    font-family:Sora-Regular;
+.foot-contact p span {
+    font-family: Sora-Medium;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 18px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    color: #161B29;
+    background-color: #FFFFFF;
+    padding: 0 4px;
+    border-radius: 4px;
+}
+
+.call {
+    font-family: Sora-Regular;
     font-size: 22px;
     font-weight: 400;
     line-height: 40px;
@@ -996,12 +998,12 @@ border-radius: 4px;
 
 }
 
-.contact-email{
+.contact-email {
     margin-left: 44px;
 }
 
-.contact-email p{
-    font-family:Sora-Regular;
+.contact-email p {
+    font-family: Sora-Regular;
     font-size: 16px;
     font-weight: 400;
     line-height: 22px;
@@ -1012,34 +1014,34 @@ border-radius: 4px;
 }
 
 
-.foot-email{
+.foot-email {
     font-family: Sora-Regular;
-font-size: 22px;
-font-weight: 400;
-line-height: 40px;
-letter-spacing: -0.02em;
-text-align: left;
-color: #27D110;
-text-decoration: none;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 40px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    color: #27D110;
+    text-decoration: none;
 }
 
-.Social-media-i p{
-    font-family:  Sora-Regular;
-font-size: 16px;
-font-weight: 400;
-line-height: 24px;
-letter-spacing: -0.02em;
-text-align: left;
-color:#FFFFFF;
-margin-bottom: 5px;
+.Social-media-i p {
+    font-family: Sora-Regular;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    color: #FFFFFF;
+    margin-bottom: 5px;
 }
 
-.Social-media-i{
+.Social-media-i {
     margin-left: 47px;
     gap: 19px;
 }
 
-.fb{
+.fb {
     background: #FFFFFF1A;
     height: 40px;
     width: 40px;
@@ -1049,35 +1051,35 @@ margin-bottom: 5px;
     border-radius: 100%;
 }
 
-.insta{
+.insta {
     margin-left: 19px;
 }
 
-.whatsapp{
+.whatsapp {
     margin-left: 19px;
 }
 
-.copy{
-font-family:Sora-Regular;
-font-size: 14px;
-font-weight: 400;
-line-height: 18px;
-letter-spacing: -0.02em;
-text-align: left;
-color: #FFFFFFCC;
-display: flex;
-justify-content: center;
-margin-top: 50px;
-padding-bottom: 18px;
+.copy {
+    font-family: Sora-Regular;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    color: #FFFFFFCC;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    padding-bottom: 18px;
 }
 
-.copy span{
-    font-family:Sora-Medium;
-font-size: 14px;
-font-weight: 500;
-line-height: 18px;
-letter-spacing: -0.02em;
-text-align: left;
-color: #FFFFFF;
-padding: 0 3px;
+.copy span {
+    font-family: Sora-Medium;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 18px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    color: #FFFFFF;
+    padding: 0 3px;
 }
